@@ -1,6 +1,6 @@
 # Bright Data SOCKS5 プロキシ
 
-[![Promo](https://github.com/luminati-io/SOCKS5-Proxies/blob/main/first-deposit-banner.PNG)](https://brightdata.jp/solutions/socks5-proxies) 
+[![Promo](https://github.com/bright-jp/SOCKS5-Proxies/blob/main/first-deposit-banner.PNG)](https://brightdata.jp/solutions/socks5-proxies) 
 
 ## Overview
 Bright Data の Proxy Manager を使用して SOCKS5 プロキシサーバーへのリクエストを送信し、汎用性、匿名性、最高のパフォーマンスを実現するように設計された Bright Data の [SOCKS5 proxies](https://brightdata.jp/proxy-types/socks5-proxies) により、シームレスで高速なスクレイピングをお楽しみいただけます。
